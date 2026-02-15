@@ -7,7 +7,7 @@ const char* ssid = "WiFi name";
 const char* password = "WiFi password";
 
 // GPIO pin for LED
-const int LED_PIN = 2;
+const int LED_PIN = 12;
 
 // Morse code timings (ms)
 const int DOT = 250;   // S

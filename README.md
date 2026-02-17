@@ -6,7 +6,7 @@ Ini adalah project menggunakan **ESP32-C3 (LuatOS Core)** untuk mengirim sinyal 
 
 ## 🛠️ Hardware yang Digunakan
 * **Board:** ESP32-C3 LuatOS Core.
-* **LED:** On-board LED D4 (terhubung ke **GPIO 13**).
+* **LED:** On-board LED D4 (terhubung ke **GPIO 12**).
 * **Koneksi:** WiFi 2.4GHz.
 
 ## 🚀 Fitur Utama

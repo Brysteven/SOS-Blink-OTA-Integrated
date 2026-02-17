@@ -1,5 +1,7 @@
 # ESP32-C3 SOS LED Blinking with OTA
 
+Author: Bryan Steven
+
 Ini adalah project menggunakan **ESP32-C3 (LuatOS Core)** untuk mengirim sinyal Morse SOS melalui LED Internal. Project ini juga sudah dilengkapi fitur **OTA (Over-The-Air)**, jadi bisa update kodenya lewat WiFi tanpa perlu colok kabel USB.
 
 ## 🛠️ Hardware yang Digunakan

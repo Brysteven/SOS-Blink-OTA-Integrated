@@ -18,7 +18,7 @@ Jadi project ini bertujuan membuat alat menggunakan ESP32C3 yang menjalankan pol
 |komponen |Spesifikasi|
 |---------|------------|
 |MCU      |ESP32C3 LuatOS Core|
-|LED	  |Onboard LED D4 (GPIO 13)|
+|LED	  |Onboard LED D4 (GPIO 12)|
 |Koneksi  |WiFi 2.4GHz|
 
 ## 3. Software Architecture
